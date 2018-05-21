@@ -11,4 +11,5 @@ E/A) Dukes 7
 5) Translate to code Code seen in pyhton file
 6) Run Test Cases Done in compiler
 Debug Test Cases
-L) 
+
+L) I learned that in this case Python was able to handle this problem a lot easier then Java would've 
