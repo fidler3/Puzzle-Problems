@@ -1,1 +1,3 @@
 # Puzzle-Problems
+
+This repostitory holds problem from a book titles Cracking the Coding Interview. In every folder is a problem along with a Readme file explaining my IDEAL process when working at coming to a possible solution. Ideal is a process that helps a problem solver come to possible solutions. The process is Identify the Problem, Define your Goals, Explore possible strategies or solutions, Anticipate outcomes and Act, Look and Learn. In my explanation we combine the Explore possible strategies and Anticpate outcomes and Act steps by using the Duke 7, another problem solving process. I have also uploaded some powerpoints given by our instructor explaining the IDEAL and Duke 7 processes. 
